@@ -1,0 +1,24 @@
+[
+    {
+        "id": 4,
+        "tipo": "ClienteRegular",
+        "nombre": "Juan Pablo",
+        "email": "jptapia5@gmail.cl",
+        "telefono": "940129138",
+        "direccion": "Camino El Peumal 158",
+        "fecha_registro": "2026-03-01 19:36:48",
+        "activo": 1,
+        "datos_extra": "{\"puntos\": 0}"
+    },
+    {
+        "id": 5,
+        "tipo": "ClienteCorporativo",
+        "nombre": "Juan Pablo Tapia",
+        "email": "jptapia5@outlook.cl",
+        "telefono": "940129138",
+        "direccion": "Camino Las Palmas 61",
+        "fecha_registro": "2026-03-01 19:37:50",
+        "activo": 1,
+        "datos_extra": "{\"empresa\": \"Avant\", \"rut_empresa\": \"00000000-0\", \"limite_credito\": 0.0, \"contactos\": []}"
+    }
+]

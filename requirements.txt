@@ -1,0 +1,16 @@
+# requirements.txt
+# Sistema GIC — Gestor Inteligente de Clientes
+# Python 3.8+
+
+# ── Librería estándar (ya incluidas en Python) ──────────
+# tkinter    → GUI (incluida en la instalación estándar)
+# sqlite3    → Base de datos (incluida)
+# json       → Persistencia JSON (incluida)
+# csv        → Persistencia CSV (incluida)
+# logging    → Sistema de logs (incluida)
+# unittest   → Pruebas unitarias (incluida)
+# re         → Expresiones regulares (incluida)
+
+# ── Librería externa (opcional) ─────────────────────────
+requests>=2.28.0    # Integración con APIs externas (validación de email)
+pytest>=7.0.0       # Alternativa a unittest para ejecutar tests
